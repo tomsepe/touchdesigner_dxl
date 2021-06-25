@@ -1,0 +1,20 @@
+interfacing dynamixel with python
+https://www.youtube.com/watch?v=YJFcREmVj08
+
+dynmixel python TD
+https://github.com/jhoepffner/Dynamixel_Python_TD
+
+subprocess TD
+https://matthewragan.com/2019/08/14/touchdesigner-python-and-the-subprocess-module/
+
+external libraries TD python
+https://matthewragan.com/2019/09/04/touchdesigner-td-summit-2019-external-python-libraries/
+youtube series
+https://www.youtube.com/watch?v=pPBiNgm19Is&list=PLBjvv2l4Z43gfg65BUGGQDz2ue10eTgjK
+
+
+opneCM
+https://emanual.robotis.com/docs/en/parts/controller/opencm904/
+
+dynamixel to arduino
+https://github.com/ROBOTIS-GIT/Dynamixel2Arduino/blob/master/examples/basic/position_mode/position_mode.ino

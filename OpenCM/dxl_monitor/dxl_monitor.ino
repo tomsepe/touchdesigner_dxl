@@ -22,7 +22,7 @@
 
 void setup()
 {
-  CMD_SERIAL.begin(57600);
+  CMD_SERIAL.begin(115200);
 }
 
 void loop()
